@@ -105,7 +105,7 @@ They will be graded according to the following criteria:
 * If you can not submit something on time, please contact me before a due date and we can make alternative arrangements.
 * If we do not make prior arrangements, I will give a one-day grace period on assignments, following which 5% will be deducted from your assignment grade for each subsequent day.
     * Ideally we should make alternative arrangements first before falling into this edge case.
-* Final projects are due on the last day of the session, Friday August 4.
+* Final projects are due on the last day of the session, Friday August 2.
   * I will be less lenient with this deadline, but if external circumstances absolutely prevent you from completing the final project, we can discuss your situation in-person (via Zoom).
 
 ## Weekly Schedule
